@@ -5,45 +5,36 @@
   <a href="https://github.com/dev-ggomes/professional-landing-page-2/blob/main/README-pt-br.md">🇧🇷 Português</a>
 </p>
 
-<h1 align="center">
-  🚀 Professional Landing Page
-</h1>
+<h1 align="center">🚀 Guilherme Gomes - Developer Portfolio</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=A259FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Developer;Automation+Builder;Always+Building+🚀" />
+</p>
 
 <p align='center'>
-  :octocat: An enhaced version of my <a href="https://github.com/dev-ggomes/professional-landing-page">previous landing page</a>
+  💻 An enhanced version of my 
+  <a href="https://github.com/dev-ggomes/professional-landing-page">previous landing page</a>
 </p>
 
 <p align="center">
-  ⭐ If you liked this project, please give it a star
+  ⭐ If you like this project, consider giving it a star
 </p>
 
-<!-- |||||||||||||||||||| SPONSORS & STARS |||||||||||||||||||| -->
+<!-- BADGES -->
 <p align='center'>
-  <a href="https://github.com/sponsors/dev-ggomes"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=social&logo=GitHub-Sponsors&logoColor=#white" /></a>
-  &nbsp;
-  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dev-ggomes/professional-landing-page-2?style=social" /></a>
+  <a href="https://github.com/sponsors/dev-ggomes">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=flat&logo=github" />
+  </a>
+  <img src="https://img.shields.io/github/stars/dev-ggomes/professional-landing-page-2?style=social" />
+  <img src="https://img.shields.io/github/forks/dev-ggomes/professional-landing-page-2?style=social" />
+  <img src="https://img.shields.io/github/license/dev-ggomes/professional-landing-page-2?style=flat" />
 </p>
 
-<br>
-
-# 🚀 Guilherme Gomes - Developer Portfolio
-
-Welcome to my personal developer portfolio website.  
-This project represents my journey, skills, and projects as a **Full Stack** and **Game Developer**.
-
 ---
-<!-- ========= IN THE FUTURE =========
-## 🌐 Live Preview
-
-👉 [View Portfolio](https://your-domain.com)
-
----
-
--->
 
 ## 🧑‍💻 About Me
 
-I’m a 19-year-old developer from Portugal, passionate about building impactful solutions through code since 2020.
+I’m a 19-year-old developer from Portugal, passionate about building impactful solutions since 2020.
 
 - 💻 Full Stack Development  
 - 🎮 Game Development  
@@ -56,76 +47,62 @@ I’m a 19-year-old developer from Portugal, passionate about building impactful
 
 ## ⚙️ Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+<p align="center">
 
-### Backend
-- PHP
-- Python
-- Java
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cs,cpp,git,github,vscode" />
 
-### Game Development
-- C#
-- C++
-- JavaScript (Canvas)
-
-### Tools
-- Git
-- GitHub
-- VS Code
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔹 Instagram Auto-Unfollow
-CLI tool in Python to automate Instagram follower cleanup. <br>
-> Link to the repository [here](https://github.com/dev-ggomes/auto-unfollow-and-remove-follower4-instagram).
+CLI tool in Python for Instagram automation  
+👉 [Link](https://github.com/dev-ggomes/auto-unfollow-and-remove-follower4-instagram)
 
 ### 🔹 Auto Refresh Any Site
-C# automation tool that simulates human behavior in browsers.
-> Link to the repository [here](https://github.com/dev-ggomes/auto-refresh-any-site).
+C# automation tool simulating human behavior  
+👉 [Link](https://github.com/dev-ggomes/auto-refresh-any-site)  
 
 ### 🔹 Web Games
-- [Snake](https://github.com/dev-ggomes/web-snake-game) 🐍
-- [Tetris](https://github.com/dev-ggomes/tetris-in-web-game) 🧱  
-- [Space Invaders](https://github.com/dev-ggomes/space-invaders-2D) 👾  
-- [Flappy Bird](https://github.com/dev-ggomes/flappy-bird-web-game) 🐦  
+- 🐍 Snake → [Link](https://github.com/dev-ggomes/web-snake-game)
+- 🧱 Tetris → [Link](https://github.com/dev-ggomes/tetris-in-web-game)
+- 👾 Space Invaders → [Link](https://github.com/dev-ggomes/space-invaders-2D)
+- 🐦 Flappy Bird → [Link](https://github.com/dev-ggomes/flappy-bird-web-game)
 
 ### 🔹 BookHub
-Full stack PHP system for managing library book requests. <br>
-> Link to the repository [here](https://github.com/dev-ggomes/bookhub)
+Library management system (PHP + MySQL)  
+👉 [Link](https://github.com/dev-ggomes/bookhub)
 
 ### 🔹 Weather Dashboard
-Real-time weather app using APIs. <br>
-> Link to the repository [here](https://github.com/dev-ggomes/search-weather-dashboard)
+Real-time weather app  
+👉 [Link](https://github.com/dev-ggomes/search-weather-dashboard)
 
 ---
 
 ## ✨ Features
 
-- Modern and responsive design
-- Animated UI/UX
-- Dynamic GitHub stats integration
-- Contact form with EmailJS
-- Project filtering system
-- Interactive components and effects
+- 🎨 Modern UI/UX  
+- ⚡ Smooth animations  
+- 📊 GitHub stats integration  
+- 📩 Contact form with EmailJS  
+- 🔎 Project filtering system  
+- 💡 Interactive effects  
 
 ---
 
 ## 📬 Contact
 
-Feel free to reach out for collaborations or projects:
-
-- 📧 Email: gomesguilherme.pt@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ggom3s/  
-- 🐙 GitHub: https://github.com/dev-ggomes  
+<p align="center">
+  <a href="mailto:gomesguilherme.pt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ggom3s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dev-ggomes"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+</p>
 
 ---
 
-## 🛠️ Installation & Usage
+## 🛠️ Installation
 
 ```bash
 # Clone the repository
