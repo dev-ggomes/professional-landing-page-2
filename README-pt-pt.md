@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  ⭐ Se gostares deste repositório, por favor dá uma estrela
+  ⭐ Se gostou deste repositório, por favor contribua com uma estrela
 </p>
 
 <!-- |||||||||||||||||||| SPONSORS & STARS |||||||||||||||||||| -->
