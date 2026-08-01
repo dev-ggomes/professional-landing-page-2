@@ -106,7 +106,7 @@ Real-time weather app
 
 ```bash
 # Clone the repository
-git clone https://github.com/dev-ggomes/professional-landing-page-2.git
+git clone https://github.com/dev-ggomes/professional-portfolio.git
 
 # Open the project
 cd professional-landing-page-2
