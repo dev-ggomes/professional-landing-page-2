@@ -106,7 +106,7 @@ Aplicação de clima em tempo real
 
 ```bash
 # Clone o repositório
-git clone https://github.com/dev-ggomes/professional-landing-page-2.git
+git clone https://github.com/dev-ggomes/professional-portfolio.git
 
 # Abrir o projeto
 cd professional-landing-page-2
